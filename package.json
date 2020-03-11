@@ -1,7 +1,7 @@
 {
-  "name": "p3d-product-service",
+  "name": "weather-service",
   "version": "1.0.0",
-  "description": "Platform 3D Product Service",
+  "description": "Weather Service which fetch data from open weather",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpileOnly ./src/server/index.ts",
@@ -14,12 +14,9 @@
     "compile": "tsc -p .",
     "fix": "gts fix",
     "prepare": "yarn run compile",
-    "pretest": "yarn run compile",
-    "posttest": "yarn run check",
-    "migration_dev": "ts-node ./node_modules/typeorm/cli.js"
+    "pretest": "yarn run compile"
   },
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "@types/swagger-jsdoc": "^3.0.2",
     "@types/swagger-ui-express": "^3.0.1",
@@ -29,20 +26,16 @@
     "csv-parser": "^2.3.2",
     "express": "^4.17.1",
     "helmet": "^3.20.1",
+    "http": "0.0.0",
     "http-status-codes": "^1.3.2",
     "ip": "^1.1.5",
     "lodash": "^4.17.15",
     "makeerror": "^1.0.11",
     "mongoose": "^5.9.3",
-    "oracledb": "^4.0.1",
-    "pptxgenjs": "^3.0.1",
-    "reflect-metadata": "^0.1.13",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
-    "supports-color": "6.1.0",
     "swagger-jsdoc": "^3.4.0",
     "swagger-ui-express": "^4.1.1",
-    "typeorm": "^0.2.22",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.2.0"
   },
@@ -61,7 +54,6 @@
     "gts": "^1.1.0",
     "husky": "^3.1.0",
     "jest": "^24.9.0",
-    "jest-sonar-reporter": "^2.0.0",
     "lint-staged": "^10.0.0-1",
     "node-mocks-http": "^1.8.1",
     "prettier": "1.18.2",
@@ -69,11 +61,6 @@
     "ts-jest": "^24.0.2",
     "ts-node-dev": "^1.0.0-pre.41",
     "typescript": "^3.5.3"
-  },
-  "jestSonar": {
-    "reportPath": "coverage",
-    "reportFile": "clover.xml",
-    "indent": 4
   },
   "lint-staged": {
     "src/**/*.ts": [

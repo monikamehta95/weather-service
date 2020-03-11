@@ -1,0 +1,297 @@
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Error: {\"status\":false,\"message\":\"document is not defined\",\"result\":null,\"errorCode\":null}","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.8,\"feels_like\":284.85,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":8000,\"wind\":{\"speed\":7.7,\"deg\":180},\"clouds\":{\"all\":75},\"dt\":1583825297,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.8,\"feels_like\":284.85,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":8000,\"wind\":{\"speed\":7.7,\"deg\":180},\"clouds\":{\"all\":75},\"dt\":1583825897,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.8,\"feels_like\":284.85,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":8000,\"wind\":{\"speed\":7.7,\"deg\":180},\"clouds\":{\"all\":75},\"dt\":1583825897,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.8,\"feels_like\":284.85,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":8000,\"wind\":{\"speed\":7.7,\"deg\":180},\"clouds\":{\"all\":75},\"dt\":1583825897,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"Platform 3D: Finished all requests","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":522,\"main\":\"Rain\",\"description\":\"heavy intensity shower rain\",\"icon\":\"09d\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.67,\"feels_like\":289.37,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":1200,\"wind\":{\"speed\":1},\"clouds\":{\"all\":75},\"dt\":1583826508,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"Platform 3D: Finished all requests","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Platform 3D: Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":522,\"main\":\"Rain\",\"description\":\"heavy intensity shower rain\",\"icon\":\"09d\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.67,\"feels_like\":289.37,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":997,\"humidity\":93},\"visibility\":1200,\"wind\":{\"speed\":1},\"clouds\":{\"all\":75},\"dt\":1583826508,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: swagger_jsdoc_1.default is not a function\nTypeError: swagger_jsdoc_1.default is not a function\n    at Object.<anonymous> (D:\\Notes\\SRide\\src\\server\\route\\swagger.ts:20:33)\n    at Module._compile (internal/modules/cjs/loader.js:1151:30)\n    at Module._compile (D:\\Notes\\SRide\\node_modules\\source-map-support\\source-map-support.js:541:25)\n    at Module.m._compile (C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js:57:25)\n    at Module._extensions..js (internal/modules/cjs/loader.js:1171:10)\n    at require.extensions.<computed> (C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js:59:14)\n    at Object.nodeDevHook [as .ts] (D:\\Notes\\SRide\\node_modules\\ts-node-dev\\lib\\hook.js:61:7)\n    at Module.load (internal/modules/cjs/loader.js:1000:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:899:14)\n    at Module.require (internal/modules/cjs/loader.js:1040:19)","stack":"TypeError: swagger_jsdoc_1.default is not a function\n    at Object.<anonymous> (D:\\Notes\\SRide\\src\\server\\route\\swagger.ts:20:33)\n    at Module._compile (internal/modules/cjs/loader.js:1151:30)\n    at Module._compile (D:\\Notes\\SRide\\node_modules\\source-map-support\\source-map-support.js:541:25)\n    at Module.m._compile (C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js:57:25)\n    at Module._extensions..js (internal/modules/cjs/loader.js:1171:10)\n    at require.extensions.<computed> (C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js:59:14)\n    at Object.nodeDevHook [as .ts] (D:\\Notes\\SRide\\node_modules\\ts-node-dev\\lib\\hook.js:61:7)\n    at Module.load (internal/modules/cjs/loader.js:1000:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:899:14)\n    at Module.require (internal/modules/cjs/loader.js:1040:19)","exception":true,"date":"Tue Mar 10 2020 13:24:09 GMT+0530 (India Standard Time)","process":{"pid":1312,"uid":null,"gid":null,"cwd":"D:\\Notes\\SRide","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v13.7.0","argv":["C:\\Program Files\\nodejs\\node.exe","./src/server/index.ts"],"memoryUsage":{"rss":44650496,"heapTotal":31604736,"heapUsed":16526104,"external":1972111}},"os":{"loadavg":[0,0,0],"uptime":133309},"trace":[{"column":33,"file":"D:\\Notes\\SRide\\src\\server\\route\\swagger.ts","function":null,"line":20,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1151,"method":"_compile","native":false},{"column":25,"file":"D:\\Notes\\SRide\\node_modules\\source-map-support\\source-map-support.js","function":"Module._compile","line":541,"method":"_compile","native":false},{"column":25,"file":"C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js","function":"Module.m._compile","line":57,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1171,"method":".js","native":false},{"column":14,"file":"C:\\Users\\Dell\\AppData\\Local\\Temp\\ts-node-dev-hook-7884482707423353.js","function":"require.extensions.<computed>","line":59,"method":"<computed>","native":false},{"column":7,"file":"D:\\Notes\\SRide\\node_modules\\ts-node-dev\\lib\\hook.js","function":"Object.nodeDevHook [as .ts]","line":61,"method":"ts]","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":1000,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":899,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1040,"method":"require","native":false}]}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"Platform 3D: Finished all requests","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Error: {\"status\":false,\"message\":\"document is not defined\",\"result\":null,\"errorCode\":null}","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.82,\"feels_like\":281.66,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":996,\"humidity\":93},\"visibility\":2000,\"wind\":{\"speed\":12.3,\"deg\":190},\"clouds\":{\"all\":75},\"dt\":1583828376,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success (promise): {\"status\":true,\"message\":\"\",\"result\":{\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":520,\"main\":\"Rain\",\"description\":\"light intensity shower rain\",\"icon\":\"09d\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50d\"}],\"base\":\"stations\",\"main\":{\"temp\":288.82,\"feels_like\":281.66,\"temp_min\":287.59,\"temp_max\":290.15,\"pressure\":996,\"humidity\":93},\"visibility\":2000,\"wind\":{\"speed\":12.3,\"deg\":190},\"clouds\":{\"all\":75},\"dt\":1583828376,\"sys\":{\"type\":1,\"id\":8070,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200},\"errorCode\":null}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"name":"RequestError","message":"Error occurred while fetching weather dataError: options.uri is a required argument","cause":{},"error":{},"options":{"method":"GET","url":"","qs":{"appid":"","lat":35,"lon":139},"json":true,"simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"level":"error","stack":"RequestError: Error: options.uri is a required argument\n    at new RequestError (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\errors.js:14:15)\n    at Request.plumbing.callback (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:87:29)\n    at Request.RP$callback [as _callback] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:46:31)\n    at self.callback (D:\\Notes\\SRide\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:321:20)\n    at Request.init (D:\\Notes\\SRide\\node_modules\\request\\request.js:231:17)\n    at Request.RP$initInterceptor [as init] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\configure\\request2.js:45:29)\nFrom previous event:\n    at Request.plumbing.init (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:36:28)\n    at Request.RP$initInterceptor [as init] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\configure\\request2.js:41:27)\n    at new Request (D:\\Notes\\SRide\\node_modules\\request\\request.js:127:8)\n    at request (D:\\Notes\\SRide\\node_modules\\request\\index.js:53:10)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:57:28\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:4:12)\n    at fetchWeatherData (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:45:26)\n    at BenchmarkService.<anonymous> (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:18:30)\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at fulfilled (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:5:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Error: {\"status\":false,\"message\":\"Error: options.uri is a required argument\",\"result\":null,\"errorCode\":null}","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"name":"RequestError","message":"Error occurred while fetching weather dataError: options.uri is a required argument","cause":{},"error":{},"options":{"method":"GET","url":"","qs":{"appid":"","lat":35,"lon":139},"json":true,"simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"level":"error","stack":"RequestError: Error: options.uri is a required argument\n    at new RequestError (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\errors.js:14:15)\n    at Request.plumbing.callback (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:87:29)\n    at Request.RP$callback [as _callback] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:46:31)\n    at self.callback (D:\\Notes\\SRide\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:321:20)\n    at Request.init (D:\\Notes\\SRide\\node_modules\\request\\request.js:231:17)\n    at Request.RP$initInterceptor [as init] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\configure\\request2.js:45:29)\nFrom previous event:\n    at Request.plumbing.init (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:36:28)\n    at Request.RP$initInterceptor [as init] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\configure\\request2.js:41:27)\n    at new Request (D:\\Notes\\SRide\\node_modules\\request\\request.js:127:8)\n    at request (D:\\Notes\\SRide\\node_modules\\request\\index.js:53:10)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:58:28\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:4:12)\n    at fetchWeatherData (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:45:26)\n    at BenchmarkService.<anonymous> (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:18:30)\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at fulfilled (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:5:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Error: {\"status\":false,\"message\":\"Error: options.uri is a required argument\",\"result\":null,\"errorCode\":null}","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"name":"StatusCodeError","statusCode":401,"message":"Error occurred while fetching weather data401 - {\"cod\":401,\"message\":\"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.\"}","error":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"options":{"method":"GET","url":"https://api.openweathermap.org/data/2.5/weather","qs":{"appid":"","lat":35,"lon":139},"json":true,"simple":true,"resolveWithFullResponse":false,"transform2xxOnly":false},"response":{"statusCode":401,"body":{"cod":401,"message":"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."},"headers":{"server":"openresty","date":"Tue, 10 Mar 2020 08:44:09 GMT","content-type":"application/json; charset=utf-8","content-length":"107","connection":"close","x-cache-key":"/data/2.5/weather?lat=35&lon=139","access-control-allow-origin":"*","access-control-allow-credentials":"true","access-control-allow-methods":"GET, POST"},"request":{"uri":{"protocol":"https:","slashes":true,"auth":null,"host":"api.openweathermap.org","port":null,"hostname":"api.openweathermap.org","hash":null,"search":"?appid=&lat=35&lon=139","query":"appid=&lat=35&lon=139","pathname":"/data/2.5/weather","path":"/data/2.5/weather?appid=&lat=35&lon=139","href":"https://api.openweathermap.org/data/2.5/weather?appid=&lat=35&lon=139"},"method":"GET","headers":{"accept":"application/json"}}},"level":"error","stack":"StatusCodeError: 401 - {\"cod\":401,\"message\":\"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.\"}\n    at new StatusCodeError (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\errors.js:32:15)\n    at Request.plumbing.callback (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:104:33)\n    at Request.RP$callback [as _callback] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:46:31)\n    at Request.self.callback (D:\\Notes\\SRide\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:321:20)\n    at Request.<anonymous> (D:\\Notes\\SRide\\node_modules\\request\\request.js:1154:10)\n    at Request.emit (events.js:321:20)\n    at IncomingMessage.<anonymous> (D:\\Notes\\SRide\\node_modules\\request\\request.js:1076:12)\n    at Object.onceWrapper (events.js:427:28)\n    at IncomingMessage.emit (events.js:333:22)\n    at endReadableNT (_stream_readable.js:1201:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)\nFrom previous event:\n    at Request.plumbing.init (D:\\Notes\\SRide\\node_modules\\request-promise-core\\lib\\plumbing.js:36:28)\n    at Request.RP$initInterceptor [as init] (D:\\Notes\\SRide\\node_modules\\request-promise-core\\configure\\request2.js:41:27)\n    at new Request (D:\\Notes\\SRide\\node_modules\\request\\request.js:127:8)\n    at request (D:\\Notes\\SRide\\node_modules\\request\\index.js:53:10)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:58:28\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:4:12)\n    at fetchWeatherData (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:45:26)\n    at BenchmarkService.<anonymous> (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:18:30)\n    at step (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:33:23)\n    at Object.next (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:14:53)\n    at fulfilled (D:\\Notes\\SRide\\src\\server\\service\\benchmark.service.ts:5:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Error: {\"status\":false,\"message\":\"401 - {\\\"cod\\\":401,\\\"message\\\":\\\"Invalid API key. Please see http://openweathermap.org/faq#error401 for more info.\\\"}\",\"result\":null,\"errorCode\":null}","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success: {\"status\":true,\"message\":\"\",\"result\":[],\"errorCode\":null}","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success: {\"status\":true,\"message\":\"\",\"result\":[],\"errorCode\":null}","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]start: set response with message as ","level":"info"}
+{"message":"[WeatherController][getWeatherDetail][HttpResponse][setResponse]Success: {\"status\":true,\"message\":\"\",\"result\":[],\"errorCode\":null}","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"Weather Details - {\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":521,\"main\":\"Rain\",\"description\":\"shower rain\",\"icon\":\"09n\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50n\"}],\"base\":\"stations\",\"main\":{\"temp\":288.98,\"feels_like\":288.32,\"temp_min\":287.04,\"temp_max\":290.93,\"pressure\":996,\"humidity\":93},\"visibility\":2500,\"wind\":{\"speed\":3.1,\"deg\":310},\"clouds\":{\"all\":75},\"dt\":1583832767,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"Weather Details - {\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":521,\"main\":\"Rain\",\"description\":\"shower rain\",\"icon\":\"09n\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50n\"}],\"base\":\"stations\",\"main\":{\"temp\":288.98,\"feels_like\":288.32,\"temp_min\":287.04,\"temp_max\":290.93,\"pressure\":996,\"humidity\":93},\"visibility\":2500,\"wind\":{\"speed\":3.1,\"deg\":310},\"clouds\":{\"all\":75},\"dt\":1583832767,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"Weather Details - {\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":521,\"main\":\"Rain\",\"description\":\"shower rain\",\"icon\":\"09n\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50n\"}],\"base\":\"stations\",\"main\":{\"temp\":288.98,\"feels_like\":288.32,\"temp_min\":287.04,\"temp_max\":290.93,\"pressure\":996,\"humidity\":93},\"visibility\":2500,\"wind\":{\"speed\":3.1,\"deg\":310},\"clouds\":{\"all\":75},\"dt\":1583832767,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200}","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"level":"info","message":"Weather data has been retrieved successfully: %j"}
+{"message":"Weather Details - {\"coord\":{\"lon\":139,\"lat\":35},\"weather\":[{\"id\":521,\"main\":\"Rain\",\"description\":\"shower rain\",\"icon\":\"09n\"},{\"id\":701,\"main\":\"Mist\",\"description\":\"mist\",\"icon\":\"50n\"}],\"base\":\"stations\",\"main\":{\"temp\":288.98,\"feels_like\":288.32,\"temp_min\":287.04,\"temp_max\":290.93,\"pressure\":996,\"humidity\":93},\"visibility\":2500,\"wind\":{\"speed\":3.1,\"deg\":310},\"clouds\":{\"all\":75},\"dt\":1583832767,\"sys\":{\"type\":1,\"id\":8024,\"country\":\"JP\",\"sunrise\":1583787706,\"sunset\":1583830022},\"timezone\":32400,\"id\":1851632,\"name\":\"Shuzenji\",\"cod\":200}","level":"info"}
+{"message":"Finished all requests","level":"info"}
+{"level":"error","message":"Error while fetching weather data - %j"}
+{"message":"Error while fetching weather data - TypeError: Cannot read property 'getWeatherDetail' of undefined","level":"error"}
+{"message":"Error while fetching weather data - TypeError: Cannot read property 'getWeatherDetail' of undefined","level":"error"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"[App][startServer]start","level":"info"}
+{"message":"Listening on port 3001!","level":"info"}
+{"message":"Finished all requests","level":"info"}
+{"message":"Error while fetching weather data - TypeError: Cannot read property 'getWeatherDetail' of undefined","level":"error"}
